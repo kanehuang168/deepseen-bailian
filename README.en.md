@@ -2,7 +2,7 @@
 
 # DeepSeen Bailian
 
-By Xiangzi, founder of Cross-border Wujiang & DeepSeen AI. Bailian turns expertise into reusable skills through discovery, combination, interviews and practical tests.
+By Xiangzi, founder of Cross-border Wujiang and DeepSeen AI, and developer of [DeepSeen.ai](https://deepseen.ai), a cross-border ecommerce content creation platform. Bailian turns expertise into reusable skills through discovery, combination, interviews and practical tests.
 
 ```sh
 npx skills add kanehuang168/deepseen-bailian

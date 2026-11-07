@@ -2,7 +2,7 @@
 
 # DeepSeen 百炼
 
-作者：祥子｜跨境无疆&DeepSeen AI创始人  
+作者：祥子｜跨境无疆 & DeepSeen AI 创始人，开发 [DeepSeen.ai](https://deepseen.ai) 跨境电商内容创作平台。
 产品品牌：DeepSeen
 
 **把经验炼成技能，让技能百炼成钢。** 百炼帮助你找现成 Skill、整合方法，或通过问答把自己的经验变成可执行的 Skill，并用案例验证。
