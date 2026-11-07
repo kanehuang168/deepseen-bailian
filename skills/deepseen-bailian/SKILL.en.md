@@ -1,3 +1,16 @@
+---
+name: deepseen-bailian
+description: Find, combine or distill reusable skills through interviews and tests. Do not use for merely executing an existing skill.
+license: MIT
+metadata:
+  author: 祥子｜跨境无疆&DeepSeen AI创始人
+  product: DeepSeen
+  version: 1.0.3
+  languages: en, zh-CN
+---
+
+[简体中文](SKILL.md)
+
 # DeepSeen Bailian
 
 Turn experience into reusable skills and test them in practice. Use the user's language and authorized host capabilities.
