@@ -10,6 +10,8 @@ Choose discovery, combination, distillation, or a combination from the user's in
 
 Use the [English template and checklist](references/guide.en.md) as a starting point, not as a completed skill. The [fictional workflow walkthrough](references/workflow-examples.md) is in Chinese; translate it for the user if needed. Report actual Xixing handoff separately from a fallback analysis.
 
+Report actual search scope and verify link boundaries; distinguish reading, Xixing invocation, retrieval and results. Trace trial output to its input and label same-author review as self-review, not independent evaluation.
+
 Use CREATE to cover task and scope, resources and inputs, quality standards, action steps, examples and output, and exceptions. Do not invent facts, thresholds or scoring weights.
 
 Review which work belongs to model, deterministic code, runtime or people; mark unimplemented capabilities as such. Compare the candidate against the old version or no skill using representative inputs, including missing information and boundaries. Report simulated, static, actual execution and independent review separately. Do not disclose private material or perform external actions without authorization.

@@ -5,7 +5,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.1
+  version: 1.0.2
   languages: zh-CN, en
 ---
 
@@ -24,6 +24,8 @@ metadata:
 - **炼**：读取现有材料，分批问少量关键问题；先澄清对象和术语，追问判断依据与正反例，区分未问、未明确和明确否定，以及加分、必要和排除条件。信息足够时生成真实 SKILL.md、使用说明和必要参考并试跑；核心判断缺失时交付草稿并继续追问，不编造事实。
 
 按阶段使用[成品骨架](references/skill-template.md)、[自检清单](references/quality-checklist.md)、[正反例](references/examples.md)和[搜炼流程示例](references/workflow-examples.md)。模板与示例均需按任务适配；模拟不冒称真实验收。
+
+搜索须记录实际平台、关键词、时间和阅读范围；有限检索不能断言全市场唯一。逐条核对链接，避免中文或标点混入网址；分别报告实际读取、吸星调用、取数与业务结果。试跑输出逐条追溯输入，身份不明不推测负责人；同一作者自评不冒充独立验收。
 
 ## CREATE：从经验到工作方法
 
