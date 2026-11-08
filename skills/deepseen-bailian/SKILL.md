@@ -5,7 +5,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.3
+  version: 1.0.4
   languages: zh-CN, en
 ---
 
