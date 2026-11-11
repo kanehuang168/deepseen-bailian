@@ -33,3 +33,7 @@ description: 说明完成的任务、适用条件和不适用情况。
 ```
 
 方法、实例或模板过长时放 references 并在主文件中明确如何按需读取；脚本和外部服务仅按实际需要提供和验证。按 @references/quality-checklist.md 核查，示例参见 @references/examples.md。
+
+## WorkBuddy 发布补充
+
+按平台要求补充版本、双语展示名和描述、作者及适用的示例；许可按实际权利填写，不凭空添加。

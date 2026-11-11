@@ -5,7 +5,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.4
+  version: 1.0.5
   languages: en, zh-CN
 ---
 
@@ -32,3 +32,7 @@ Review which work belongs to model, deterministic code, runtime or people; mark 
 ## Author and brand
 
 Xiangzi, founder of Cross-border Wujiang and DeepSeen AI, developed [DeepSeen.ai](https://deepseen.ai), a cross-border ecommerce content creation platform.
+
+## Saving and validation
+
+Honor the requested location; use the host project scope for project-specific skills and user scope for explicit cross-project use. Inspect host conventions and avoid overwriting. `python scripts/validate_skill.py PATH` checks mechanical structure; `--workbuddy` additionally checks WorkBuddy fields. Passing does not establish task quality or real-world execution.

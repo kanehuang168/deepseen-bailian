@@ -25,3 +25,7 @@ Handle missing information, unavailable tools, uncertain acceptance and permissi
 ```
 
 Move longer methods and examples to references and link them from the entrypoint; add scripts or external services only when needed and verified. Check the [quality checklist](quality-checklist.en.md) and [examples](examples.en.md).
+
+## WorkBuddy publishing fields
+
+Add version, bilingual display names and descriptions, author and appropriate examples when required by the host. State a license only when authorized.

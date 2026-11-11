@@ -5,7 +5,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.4
+  version: 1.0.5
   languages: zh-CN, en
 ---
 
@@ -40,3 +40,7 @@ metadata:
 ## 作者与品牌
 
 祥子｜跨境无疆 & DeepSeen AI 创始人，开发 [DeepSeen.ai](https://deepseen.ai) 跨境电商内容创作平台。
+
+## 保存位置与检查
+
+项目专用技能优先按宿主项目级约定保存；明确跨项目使用时选择宿主用户级目录。用户指定位置优先，路径不明先查宿主约定；不覆盖同名文件。可运行 `python scripts/validate_skill.py 路径` 检查名称和相对引用；WorkBuddy 字段检查按需使用 `--workbuddy`。结果只表示机械结构检查，不等于真实业务或模型验收。
